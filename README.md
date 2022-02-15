@@ -39,7 +39,7 @@
 <a href="https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
-<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+<a href=
 
 ##
   <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
@@ -47,5 +47,5 @@
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/a6KqRQ9.jpeg" alt="kyrie.baran" height="100" width="300" /></a>
+  <a href="https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv" target="blank"><img align="center" src="https://i.imgur.com/a6KqRQ9.jpeg" alt="kyrie.baran" height="100" width="300" /></a>
 </p> 
