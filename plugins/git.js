@@ -7,24 +7,23 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.ibb.co/mcVjXBN/IMG-20220120-WA0089.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/EC7OcQS.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪𝑨𝑩𝑼 𝑺𝑬𝑹 𝑩𝑶𝑻☜︎︎︎✌︎*
-ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917025994178
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*✌︎➪ᴀᴄʜᴜᴍᴡᴏʟ☜︎︎︎✌︎*
+ᴄʀᴇᴀᴛᴏʀ ɴᴜᴍʙᴇʀ: wa.me/917594029466
 
-Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎Aʙᴜ Sᴇʀ Bᴏᴛ ➪ Aʙᴜ»:-Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ
+Tʜɪs ʙᴏᴛ Oᴡɴᴇʀ Nᴀᴍᴇ : ❤️🥰 ✌︎ꜱʜɪʙɪ Sᴇʀ Bᴏᴛ ➪ ꜱʜɪʙɪ»:-ᴀᴄʜᴜᴍᴡᴏʟ
 
-Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk
+Aʙᴜ ʙᴏᴛ ɢʀᴏᴜᴘ: https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv
 
-Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/Ajx-Abu/Abu_ser
+Gɪᴛʜᴜʙ ʟɪɴᴋ:    https://github.com/SHIBI-SER/Achumwol
 
-Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/Ajx-Abu/Abu_ser/tree/master/uploads
+Aᴜᴅɪᴏ ᴄᴏᴍᴍᴀᴅᴇ :   https://github.com/SHIBI-SER/Achumwol/tree/master/uploads
 
-Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/Ajx-Abu/Abu_ser/tree/master/sticker
+Sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀᴅᴇ: https://github.com/SHIBI-SER/Achumwol/tree/master/sticker
 
-Cʜᴀɴɴᴇʟ : https://youtube.com/channel/UCWroqii8PORgNBdZO5MG6Fw 
 
-💝Aʙᴜ Sᴇʀ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ Aʙᴜ Sᴇʀ -Jᴀsɪʟ ᴍᴜʜᴀᴍᴍᴇᴅ💝
+💝ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Cʀᴇᴀᴛᴇᴅ Bʏ ꜱʜɪʙɪ💝
 `}) 
 
 }));
