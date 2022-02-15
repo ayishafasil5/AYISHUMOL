@@ -28,7 +28,7 @@
         Reserved |
     <br> 
 </p>
-<img src=https://i.imgur.com/8LiFere.png>
+
 </p>
 
 <br>
