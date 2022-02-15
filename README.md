@@ -36,7 +36,7 @@
 <a href="https://replit.com/@shibi007/Achumwol-Qr?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Achumwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 <a href=
