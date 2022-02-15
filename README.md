@@ -18,11 +18,11 @@
 </p>
 
   <p align="center">
-<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/JASIL-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="SHIBI" src="https://img.shields.io/badge/SHIBI-Achumwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 SHIBI SER
     <br>
        | © |
         Reserved |
