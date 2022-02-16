@@ -22,7 +22,7 @@
 </p>
 </div>
 <p align="center">
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 𝐀𝐛𝐮 𝐒𝐞𝐫
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 SHIBI SER
     <br>
        | © |
         Reserved |
@@ -34,10 +34,10 @@
 
 <br>
 <div>
-<a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/jfn2seX.jpeg" alt="Scan QR" height="20" width="70" /></a>
+<a href="https://replit.com/@shibi007/Achumwol-Qr?v=1"><img align="center" src="https://i.imgur.com/jfn2seX.jpeg" alt="Scan QR" height="20" width="70" /></a>
 <br>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Achumwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
 <div>
 
@@ -47,5 +47,5 @@
 CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/M9ThzcR.png" alt="kyrie.baran" height="100" width="300" /></a>
+  <a href="https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv" target="blank"><img align="center" src="https://i.imgur.com/uiURsMQ.jpeg" alt="kyrie.baran" height="100" width="300" /></a>
 </p> 
