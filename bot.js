@@ -113,13 +113,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'Achumwol' || config.AFPLK == 'Achumwol' || config.AFPLK == 'Achumwol' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'ABUSER' || config.AFPLK == 'SHIBI' || config.AFPLK == 'Abuser' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'Achumwol' || config.AFPLK !== 'Achumwol' || config.AFPLK !== 'Achumwol' || config.AFPLK !== 'pinky') {
+         else if (config.AFPLK !== 'ABUSER' || config.AFPLK !== 'SHIBI' || config.AFPLK !== 'Abuser' || config.AFPLK !== 'pinky') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -158,7 +158,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
                 if (commits.total === 0) {
-                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/Achumwol.png"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴀᴄʜᴜᴍᴡᴏʟ  ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ💙* \n\n*ᴘʟᴇᴀsᴇ sᴀᴘᴘᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ❤️*`});
+                    await conn.sendMessage(conn.user.jid, fs.readFileSync("./photo/abuser.png"), MessageType.image, { caption: `*ʜᴇʏ ʙʀᴏ ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ ᴡᴏʀᴋɪɴɢ ` + config.WORKTYPE + ` 🥂* \n\n*ᴛʜᴀɴᴋʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ💙* \n\n*ᴘʟᴇᴀsᴇ sᴀᴘᴘᴏʀᴛ ᴍʏ ᴄʜᴀɴɴᴇʟ❤️*`});
                 } else {
                     var degisiklikler = Lang.NEW_UPDATE;
                     commits['all'].map(
@@ -351,7 +351,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 💙 Achumwol ❤️ ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ 💙 Achmwol❤️ ~______~*' +
                                     '\n*🌀 Entho Evideyo Oru Preshnam Ullath Pole Thonunnu' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
