@@ -18,7 +18,7 @@ class StringSession {
 
     deCrypt(string = undefined) {
 
-        if ('ACHUMWOL_CODE' in process.env && string === undefined) {
+        if ('ABUSER_CODE' in process.env && string === undefined) {
 
             string = process.env.STRING_SESSION;
 
