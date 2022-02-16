@@ -9,7 +9,7 @@
  const Config = require('../config');
 
           var mode = ''
-if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ᴀʙᴜ sᴇʀ'
+if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : ꜱʜɪʙɪ sᴇʀ'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
