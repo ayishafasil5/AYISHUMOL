@@ -186,7 +186,7 @@
             "SONG_DESC": "Aʙᴜ Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*💙Mᴜᴛʜᴇ Wᴀɪᴛ Cʜᴀʏʏ Aʙᴜ Sᴇʀ Tʜᴀᴘᴘᴜᴋᴀʏᴀɴ 💝🧚‍♂️*\n",
+            "DOWNLOADING_SONG": "\n*💙Mᴜᴛʜᴇ Wᴀɪᴛ Cʜᴀʏ Achumwol Tʜᴀᴘᴘᴜᴋᴀʏᴀɴ 💝🧚‍♂️*\n",
             "UPLOADING_SONG": "\n*ᴀᴄʜᴜᴍᴡᴏʟ Uᴘʟᴏᴀᴅɪɴɢ 📲 Hᴇᴅsᴇᴛ Vᴇᴄʜᴏ Nᴀʟʟᴀ Pᴏᴡᴇʀ Aʏɪʀɪᴋᴋᴜᴍ 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": " ᴀᴄʜᴜᴍᴡᴏʟ Converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```💝Ippam Seriyakithra 🤠ᴀᴄʜᴜᴍᴡᴏʟ Serinte Fan Ano Ni💝```"
+            "DOWNLOADING": "```💝Ippam Seriyakithra 🤠ᴀᴄʜᴜᴍᴡᴏʟ inte Fan Ano Ni💝```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,7 +217,7 @@
         "updater": {
             "UPDATER_DESC": "Cʜᴇᴄᴋs Tʜᴇ Uᴘᴅᴀᴛᴇ.",
             "UPDATE": "*💝ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ sᴛᴀʀᴛᴇᴅ💝*",
-            "NEW_UPDATE": "*ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk \n\nChanges:\n```",
+            "NEW_UPDATE": "*ᴀᴄʜᴜᴍᴡᴏʟ Bᴏᴛ Uᴘᴅᴀᴛᴇ Aᴠᴀɪʟᴀʙʟᴇ *\n\n *Tʏᴘᴇ .update now before updating.🙂* \n *Asᴋ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ Aɴᴅ Uᴘᴅᴀᴛᴇ☺️* ```https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "Iᴛ Mᴀᴋᴇs Uᴘᴅᴀᴛᴇs.",
             "UPDATING": "```Uᴘᴅᴀᴛɪɴɢ..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
